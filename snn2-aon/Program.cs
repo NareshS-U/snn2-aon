@@ -10,6 +10,8 @@ namespace snn2_aon
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("k1");
+            Console.Read();
         }
     }
 }
